@@ -1,6 +1,6 @@
 # SinGAN for Scalable Image And Video Inpainting
 
-Extension of SinGAN (https://github.com/tamarott/SinGAN) on Image and Video Inpainting. 
+Extension of SinGAN (https://github.com/tamarott/SinGAN) on Image and Video Inpainting. This was my final project for the MVA course "Object Recognition and Computer Vision (teached by Jean Ponce, Ivan Laptev, Cordelia Schmid and Josef Sivic), and I was advised by Thomas Eboli.
 
 Approach is summarized in the Project Report. It aims at being scalable and is mainly based on generalizing the training to damaged images with a loss masked on invalid pixels, then initializing with various schemes the hole and harmonizing it. 
 
